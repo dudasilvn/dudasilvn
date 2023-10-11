@@ -1,12 +1,12 @@
 Olá👋
-Sou Maria Eduarda, 20 anos, natural de Itauna, mais atualmente moro em Itabira-MG e comecei minha carreira na área de TI recentemente, trabalhando como auxilar de suporte ao usuário e manutenção de PC juntamente com meu irmão.
+Sou Maria Eduarda, 20 anos, Formação em andamento em Engenharia de Software pela Faculdade Pitágoras, atualmente em um time comercial com foco na retenção e fidelização, além disso desenvolvedora web Front-end.
 
-Lembro que nessa época, foi meu primeiro contato com a linguagem de programação Javascript.
+Dedico meu tempo livre para estudar inglês e linguagens de programação, sendo mais específica Java Script.
 
-Comecei a estudar como funcionava estruturas Javascript de alguém como AngularJs, Angular 2+, VueJs, NodeJs, Express e assim por diante.
+Na Valenet atuo no time comercial tendo como função reter clientes com interesse no cancelamento e fidelizar com planos disponibilizados na região. Buscando novas parcerias que possa me possibilitar atuar na área da tecnologia .
 
-Outra coisa importante que preciso mencionar é sobre a plataforma de nuvem que geralmente uso. É o Microsoft Azure. Minha experiência principal é nesta plataforma e me sinto confortável para entregar a melhor solução nela. Mas em alguns projetos, tive a oportunidade de usar outras plataformas de nuvem como Amazon AWS, mas na verdade apenas estudando os serviços compatíveis nesta plataforma como Lambda, Amazon SNS, etc.
+Para me encontrar no Linkedin deixo abaixo o link da minha conta.
 
-Atualmente estou interessada em desenvolvimento web e embora tenha me encontrado na área de Front-end, estou aberta e sempre disposta a aprender algumas novas habilidades, ferramentas e linguagens.
+www.linkedin.com/in/mariaeduardasilvn
 
-Linguagens em que estou me especializando no momento: Javascript, CSS, HTML5.
+Procuro nessa minha passagem agregar o máximo de experiência para contribuir em atividades de diferente áreas.
