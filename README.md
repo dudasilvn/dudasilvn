@@ -1,5 +1,5 @@
 Olá👋
-Sou Maria Eduarda, 20 anos, Formação em andamento em Engenharia de Software pela Faculdade Pitágoras, atualmente em um time comercial com foco na retenção e fidelização, além disso desenvolvedora web Front-end.
+Sou Maria Eduarda, 20 anos, Formação em andamento em Engenharia de Software pela Faculdade Pitágoras.
 
 Dedico meu tempo livre para estudar inglês e linguagens de programação, sendo mais específica Java Script.
 
